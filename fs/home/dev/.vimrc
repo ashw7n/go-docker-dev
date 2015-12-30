@@ -54,6 +54,8 @@ let g:bufferline_echo = 0
 let g:airline#extensions#tabline#enabled = 1
 let g:airline_theme = 'dark'
 
+let mapleaderkey=","
+
 " tagbar
 let g:tagbar_type_go = {
     \ 'ctagstype' : 'go',
